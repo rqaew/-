@@ -13,29 +13,14 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\NewFilter1">
-      <UniqueIdentifier>{844443d6-b271-456e-b170-6108e96dedb0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\과제">
-      <UniqueIdentifier>{ab673e7d-9743-4e73-83dc-d661f803e45f}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="수업.cpp">
-      <Filter>소스 파일\NewFilter1</Filter>
-    </ClCompile>
-    <ClCompile Include="수업2.cpp">
-      <Filter>소스 파일\NewFilter1</Filter>
-    </ClCompile>
-    <ClCompile Include="수업3.cpp">
-      <Filter>소스 파일\NewFilter1</Filter>
-    </ClCompile>
-    <ClCompile Include="과제-1.cpp">
-      <Filter>소스 파일\과제</Filter>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="과제-1.h">
+    <ClInclude Include="homewe가.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
